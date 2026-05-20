@@ -6,20 +6,14 @@
     "name": "Password Security",
     "summary": "Allow admin to set password security requirements.",
     "version": "19.0.1.0.0",
-    "author": "LasLabs, "
-    "Onestein, "
-    "Kaushal Prajapati, "
-    "Tecnativa, "
-    "initOS GmbH, "
-    "Omar Nasr, "
-    "Odoo Community Association (OCA)",
+    "author": "AliReza Nemati, ERPishro.COM ",
     "category": "Base",
     "depends": [
         "auth_signup",
         "auth_password_policy_signup",
         "auth_totp",
     ],
-    "website": "https://github.com/OCA/server-auth",
+    "website": "https://ERPishro.COM",
     "license": "LGPL-3",
     "data": [
         "views/res_config_settings_views.xml",
